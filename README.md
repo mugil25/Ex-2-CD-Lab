@@ -31,7 +31,7 @@
 7.	Compile that file with C compiler and verify the output.
 
 # INPUT
-## exp2.l.txt
+## ex2.l
 ```
 /* program name is lexp.l */
 %{
@@ -85,6 +85,7 @@ int main(){
 }
 ```
 # OUTPUT
-![alt text](output.png)
+![Screenshot 2025-04-17 112654](https://github.com/user-attachments/assets/4f426028-6a0c-4c9b-a17f-2f81680aa167)
+
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
